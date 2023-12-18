@@ -12,7 +12,7 @@ I'm a Frontend Software Engineer. I'm passionate about sharing knowledge, docume
 - 🌱 I’m currently learning JavaScript, Reactjs, NextJs, React-Native.
 - 😊 I’m looking for help with Jobs, open source projects, hackathons opportunities.
 - 💼 Job interests: Software Engineering, Frontend Engineering.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1K_DQ6beQw6jx66dsCWdklM2zONbu52jb/view?usp=sharing) and contact me by emailing oluwatosin adegoroye21@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1K_DQ6beQw6jx66dsCWdklM2zONbu52jb/view?usp=sharing) and contact me by emailing oluwatosinadegoroye21@gmail.com.
 
 ---
 
